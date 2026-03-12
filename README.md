@@ -1,6 +1,6 @@
 
 ## Ethical License (CNPL v4)
-LEADER is released under the **Cooperative Non-Violent Public License**. 
+ENTANGLE is released under the **Cooperative Non-Violent Public License**. 
 
 This means you are free to use it for art, education, and civilian research. However:
 - **NO Military Use:** Use by military organizations or for weapons development is strictly prohibited.
